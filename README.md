@@ -15,8 +15,8 @@ The POP API is your gateway to managing streaming resources. It allows you to cr
 
 ## Table of Contents
 
-- [Installation](https://github.com/sci-ndp/Streaming_Hackathon-RAI/blob/tutorial/README.md#installation)
-- [Tutorial](https://github.com/sci-ndp/Streaming_Hackathon-RAI/blob/tutorial/README.md#tutorial)
+- [Installation](https://github.com/sci-ndp/Streaming_Hackathon-RAI/blob/test/README.md#installation)
+- [Tutorial](https://github.com/sci-ndp/Streaming_Hackathon-RAI/blob/test/test_do_it_yourself.ipynb)
 
 
 ## Installation
