@@ -8,9 +8,9 @@ RAI Utah Hackathon: Exploring Data Streaming with SciDX_Streaming
 
 SCIDX Streaming is a powerful yet easy-to-use Python library that helps you work with live data on the sciDX platform. Whether you're creating, managing, or consuming real-time streams, this library simplifies the process. It's designed to make streaming accessible and efficient, so you can focus on using your data rather than struggling to manage it.
 
-# Point Of Presence API (POP API)
+# Point Of Presence API (NDP endpoint API)
 
-The POP API is your gateway to managing streaming resources. It allows you to create, update, and retrieve essential data streams and services within the Point of Presence (POP) network. Whether you're setting up new data sources or interacting with existing ones, this API makes it straightforward and hassle-free to keep your data flowing.
+The NDP endpoint API is your gateway to managing streaming resources. It allows you to create, update, and retrieve essential data streams and services within the Point of Presence (NDP endpoint) network. Whether you're setting up new data sources or interacting with existing ones, this API makes it straightforward and hassle-free to keep your data flowing.
 
 
 ## Table of Contents
