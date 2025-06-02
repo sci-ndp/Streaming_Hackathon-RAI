@@ -15,8 +15,8 @@ The POP API is your gateway to managing streaming resources. It allows you to cr
 
 ## Table of Contents
 
-- [Installation](https://github.com/sci-ndp/Streaming_Hackathon-RAI/blob/test/README.md#installation)
-- [Tutorial](https://github.com/sci-ndp/Streaming_Hackathon-RAI/blob/test/README.md#tutorial)
+- [Installation](https://github.com/sci-ndp/Streaming_Hackathon-RAI/blob/main/README.md#installation)
+- [Tutorial](https://github.com/sci-ndp/Streaming_Hackathon-RAI/blob/main/README.md#tutorial)
 
 
 ## Installation
@@ -44,6 +44,4 @@ Ensure you have Python 3.7 or higher installed. Using a virtual environment is r
 
 ## Tutorial
 
-For a step-by-step guide on how to harness the power of the `SciDX_Streaming` library to efficiently process and analyze diverse datasets from atmospheric and environmental sources., check out our comprehensive tutorial: [Step by Step Guide in Data Exploring Using SCIDX_STREAMING](https://github.com/sci-ndp/Streaming_Hackathon-RAI/blob/test/test_do_it_yourself.ipynb).
-
-
+For a step-by-step guide on how to harness the power of the `SciDX_Streaming` library to efficiently process and analyze diverse datasets from atmospheric and environmental sources., check out our comprehensive tutorial: [Step by Step Guide in Data Exploring Using SCIDX_STREAMING](https://github.com/sci-ndp/Streaming_Hackathon-RAI/blob/main/simulating_data_stream_from_csv.ipynb).
